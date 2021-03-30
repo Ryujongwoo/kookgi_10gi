@@ -1,0 +1,9 @@
+자바 8 API
+https://docs.oracle.com/javase/8/docs/api/
+
+오라클 디벨로퍼
+https://www.oracle.com/tools/downloads/sqldev-downloads.html
+
+오라클 11g
+https://www.oracle.com/database/technologies/oracle-database-software-downloads.html
+(https://www.oracle.com/database/technologies/xe-prior-releases.html)
