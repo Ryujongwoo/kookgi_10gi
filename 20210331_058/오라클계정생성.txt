@@ -1,0 +1,9 @@
+오라클 계정 만들기
+SQL> connect system 엔터
+※ 실제로 비밀번호를 입력할 때는 문자가 화면에 표시되지 않는다.
+Enter Password : 0000 엔터
+SQL> create user koreait identified by 0000; 엔터
+SQL> grant connect, resource to koreait; 엔터
+
+오라클 계정 지우기
+SQL> drop user koreait cascade;
